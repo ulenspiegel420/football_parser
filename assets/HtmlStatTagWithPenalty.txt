@@ -1,0 +1,1235 @@
+﻿<div class="match-tabs__content tournament-tabs__content tabs-content js-tournament-tab-content" data-type="stats">
+    <div>
+        <h2 class="tournament-title _centered">Послематчевые пенальти</h2>
+        <div class="match-stat">
+            <div class="match-stat__row _team1">
+                <div class="match-stat__row-wrapper _team1">
+                    <div class="match-stat__info"><a href="/football/_russiacup/tournament/344/players/18884/"> Элсон</a></div>
+                    <div class="match-stat__add-info">Сейв</div>
+                    <div class="match-stat__main-value">0:0</div>
+                </div>
+            </div>
+            <div class="match-stat__row _team2">
+                <div class="match-stat__row-wrapper _team2">
+                    <div class="match-stat__info"><a href="/football/_russiacup/tournament/344/players/473/">Любомир Кантонистов</a></div>
+                    <div class="match-stat__add-info">Сейв</div>
+                    <div class="match-stat__main-value">0:0</div>
+                </div>
+            </div>
+                                            <div class="match-stat__row _team1">
+                            <div class="match-stat__row-wrapper _team1">
+                                <div class="match-stat__info">
+                                                                            <a href="/football/_russiacup/tournament/344/players/181/">Александр Гацкан</a>
+                                                                    </div>
+                                <div class="match-stat__add-info">
+                                                                            <span class="match-icon _cuppen"></span>
+                                                                    </div>
+                                <div class="match-stat__main-value">1:0</div>
+                            </div>
+                        </div>
+                                            <div class="match-stat__row _team2">
+                            <div class="match-stat__row-wrapper _team2">
+                                <div class="match-stat__info">
+                                                                            <a href="/football/_russiacup/tournament/344/players/7462/">Пётр Гицелов</a>
+                                                                    </div>
+                                <div class="match-stat__add-info">
+                                                                            Сейв
+                                                                    </div>
+                                <div class="match-stat__main-value">1:0</div>
+                            </div>
+                        </div>
+                                            <div class="match-stat__row _team1">
+                            <div class="match-stat__row-wrapper _team1">
+                                <div class="match-stat__info">
+                                                                            <a href="/football/_russiacup/tournament/344/players/217/">Эктор Бракамонте</a>
+                                                                    </div>
+                                <div class="match-stat__add-info">
+                                                                            <span class="match-icon _cuppen"></span>
+                                                                    </div>
+                                <div class="match-stat__main-value">2:0</div>
+                            </div>
+                        </div>
+                                            <div class="match-stat__row _team2">
+                            <div class="match-stat__row-wrapper _team2">
+                                <div class="match-stat__info">
+                                                                            <a href="/football/_russiacup/tournament/344/players/14693/">Денис Клопков</a>
+                                                                    </div>
+                                <div class="match-stat__add-info">
+                                                                            <span class="match-icon _cuppen"></span>
+                                                                    </div>
+                                <div class="match-stat__main-value">2:1</div>
+                            </div>
+                        </div>
+                                            <div class="match-stat__row _team1">
+                            <div class="match-stat__row-wrapper _team1">
+                                <div class="match-stat__info">
+                                                                            <a href="/football/_russiacup/tournament/344/players/2080/">Рэзван Кочиш</a>
+                                                                    </div>
+                                <div class="match-stat__add-info">
+                                                                            <span class="match-icon _cuppen"></span>
+                                                                    </div>
+                                <div class="match-stat__main-value">3:1</div>
+                            </div>
+                        </div>
+                                            <div class="match-stat__row _team2">
+                            <div class="match-stat__row-wrapper _team2">
+                                <div class="match-stat__info">
+                                                                            <a href="/football/_russiacup/tournament/344/players/393/">Алексей Житников</a>
+                                                                    </div>
+                                <div class="match-stat__add-info">
+                                                                            <span class="match-icon _cuppen"></span>
+                                                                    </div>
+                                <div class="match-stat__main-value">3:2</div>
+                            </div>
+                        </div>
+                                            <div class="match-stat__row _team1">
+                            <div class="match-stat__row-wrapper _team1">
+                                <div class="match-stat__info">
+                                                                            <a href="/football/_russiacup/tournament/344/players/216/">Роман Адамов</a>
+                                                                    </div>
+                                <div class="match-stat__add-info">
+                                                                            Сейв
+                                                                    </div>
+                                <div class="match-stat__main-value">3:2<style type="text/css"></style></div>
+                            </div>
+                        </div>
+                                            <div class="match-stat__row _team2">
+                            <div class="match-stat__row-wrapper _team2">
+                                <div class="match-stat__info">
+                                                                            <a href="/football/_russiacup/tournament/344/players/297/">Евгений Гаврюк</a>
+                                                                    </div>
+                                <div class="match-stat__add-info">
+                                                                            <span class="match-icon _cuppen"></span>
+                                                                    </div>
+                                <div class="match-stat__main-value">3:3</div>
+                            </div>
+                        </div>
+                                            <div class="match-stat__row _team1">
+                            <div class="match-stat__row-wrapper _team1">
+                                <div class="match-stat__info">
+                                                                            <a href="/football/_russiacup/tournament/344/players/497/">Дмитрий Круглов</a>
+                                                                    </div>
+                                <div class="match-stat__add-info">
+                                                                            Сейв
+                                                                    </div>
+                                <div class="match-stat__main-value">3:3</div>
+                            </div>
+                        </div>
+                                            <div class="match-stat__row _team2">
+                            <div class="match-stat__row-wrapper _team2">
+                                <div class="match-stat__info">
+                                                                            <a href="/football/_russiacup/tournament/344/players/655/">Исмаил Эдиев</a>
+                                                                    </div>
+                                <div class="match-stat__add-info">
+                                                                            Мимо
+                                                                    </div>
+                                <div class="match-stat__main-value">3:3</div>
+                            </div>
+                        </div>
+                                            <div class="match-stat__row _team1">
+                            <div class="match-stat__row-wrapper _team1">
+                                <div class="match-stat__info">
+                                                                            <a href="/football/_russiacup/tournament/344/players/15847/">Корнел Салата</a>
+                                                                    </div>
+                                <div class="match-stat__add-info">
+                                                                            <span class="match-icon _cuppen"></span>
+                                                                    </div>
+                                <div class="match-stat__main-value">4:3</div>
+                            </div>
+                        </div>
+                                            <div class="match-stat__row _team2">
+                            <div class="match-stat__row-wrapper _team2">
+                                <div class="match-stat__info">
+                                                                            <a href="/football/_russiacup/tournament/344/players/14676/">Сергей Хабаров</a>
+                                                                    </div>
+                                <div class="match-stat__add-info">
+                                                                            Сейв
+                                                                    </div>
+                                <div class="match-stat__main-value">4:3</div>
+                            </div>
+                        </div>
+                                    </div>
+            </div>
+
+
+    <div>
+        <h2 class="tournament-title _centered">Голы</h2>
+            <div class="match-stat">
+                <div class="match-stat__row _team2">
+                    <div class="match-stat__row-wrapper _team2">
+<div class="match-stat__info">
+<a class="match-stat__player" href="/football/_russiapl/tournament/3/players/261/">
+                                                Робертас Пошкус                                            </a>
+</div>
+<div class="match-stat__add-info">
+<div class="match-score _goal">0:1</div>
+</div>
+<div class="match-stat__main-value">
+<div>21'</div>
+<div class="match-stat__video js-match-highlights-goal" data-minute="21"></div>
+</div>
+</div>
+</div>
+
+    <div class="match-stat__row _team1">
+        <div class="match-stat__row-wrapper _team1">
+            <div class="match-stat__info"><a class="match-stat__player" href="/football/_russiapl/tournament/3/players/74104/">Валерий Кечинов</a></div>
+            <div class="match-stat__add-info"><div class="match-score _pen" title="(пенальти)">1:1</div></div>
+            <div class="match-stat__main-value"><div>24'</div><div class="match-stat__video js-match-highlights-goal" data-minute="24"></div></div>
+        </div>
+    </div>
+
+    <div class="match-stat__row-wrapper _team1">
+        <div class="match-stat__info"><a class="match-stat__player" href="/football/_russiapl/tournament/2200/players/14538/">Игорь Портнягин</a></div>
+        <div class="match-stat__add-info"><div class="match-score _own" title="(автогол)">1:1</div></div>
+    </div>
+
+    <div class="match-stat__row _team1">
+        <div class="match-stat__row-wrapper _team1">
+<div class="match-stat__info">
+<a class="match-stat__player" href="/football/_russiapl/tournament/3/players/17614/">
+                                                Самир Муратович                                            </a>
+</div>
+<div class="match-stat__add-info">
+<div class="match-score _goal">2:1</div>
+</div>
+<div class="match-stat__main-value">
+<div>44'</div>
+<div class="match-stat__video js-match-highlights-goal" data-minute="44"></div>
+</div>
+</div>
+</div>
+<div class="match-stat__row _team1">
+<div class="match-stat__row-wrapper _team1">
+<div class="match-stat__info">
+<a class="match-stat__player" href="/football/_russiapl/tournament/3/players/17614/">
+                                                Самир Муратович                                            </a>
+</div>
+<div class="match-stat__add-info">
+<div class="match-score _goal">3:1</div>
+</div>
+<div class="match-stat__main-value">
+<div>57'</div>
+<div class="match-stat__video js-match-highlights-goal" data-minute="57"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div>
+<h2 class="tournament-title _centered">Наказания</h2>
+<div class="match-stat">
+<div class="match-stat__row _team2">
+<div class="match-stat__row-wrapper _team2">
+<div class="match-stat__info">
+<a class="match-stat__player" href="/football/_russiapl/tournament/3/players/74202/">Леандро Самароне</a>
+</div>
+<div class="match-stat__add-info">
+<span class="match-icon _yellow"></span>
+</div>
+<div class="match-stat__main-value">
+                                    24'
+                                </div>
+</div>
+</div>
+<div class="match-stat__row _team2">
+<div class="match-stat__row-wrapper _team2">
+<div class="match-stat__info">
+<a class="match-stat__player" href="/football/_russiapl/tournament/3/players/5655/">Андрей Каряка</a>
+</div>
+<div class="match-stat__add-info">
+<span class="match-icon _yellow"></span>
+</div>
+<div class="match-stat__main-value">
+                                    45'
+                                </div>
+</div>
+</div>
+<div class="match-stat__row _team2">
+<div class="match-stat__row-wrapper _team2">
+<div class="match-stat__info">
+<a class="match-stat__player" href="/football/_russiapl/tournament/3/players/74246/">Вук Рашович</a>
+</div>
+<div class="match-stat__add-info">
+<span class="match-icon _yellow"></span>
+</div>
+<div class="match-stat__main-value">
+                                    50'
+                                </div>
+</div>
+</div>
+<div class="match-stat__row _team2">
+<div class="match-stat__row-wrapper _team2">
+<div class="match-stat__info">
+<a class="match-stat__player" href="/football/_russiapl/tournament/3/players/10084/">Рожерио Гаушо</a>
+</div>
+<div class="match-stat__add-info">
+<span class="match-icon _yellow"></span>
+</div>
+<div class="match-stat__main-value">
+                                    58'
+                                </div>
+</div>
+</div>
+<div class="match-stat__row _team1">
+<div class="match-stat__row-wrapper _team1">
+<div class="match-stat__info">
+<a class="match-stat__player" href="/football/_russiapl/tournament/3/players/7531/">Андриан Сосновский</a>
+</div>
+<div class="match-stat__add-info">
+<span class="match-icon _yellow"></span>
+</div>
+<div class="match-stat__main-value">
+                                    60'
+                                </div>
+</div>
+</div>
+<div class="match-stat__row _team1">
+<div class="match-stat__row-wrapper _team1">
+<div class="match-stat__info">
+<a class="match-stat__player" href="/football/_russiapl/tournament/3/players/74232/">Милан Йович</a>
+</div>
+<div class="match-stat__add-info">
+<span class="match-icon _yellow"></span>
+</div>
+<div class="match-stat__main-value">
+                                    90'
+                                </div>
+</div>
+</div>
+</div>
+</div>
+<div class="match-lineup">
+<div class="swiping-tabs swiper-container js-swiping-tabs-container" data-type="lineup">
+<div class="swiping-tabs__tabs tabs _light _hidden-dt js-swiping-tabs-nav"></div>
+<div class="swiper-wrapper">
+<h3 class="tournament-title _hidden-td">Составы команд</h3>
+<div class="swiper-slide js-swiping-tabs-item">
+<div class="tournament-title _hidden-dt">Составы команд</div>
+<table class="match-lineup__players table table-stripe table-row-hover">
+<thead>
+<tr>
+<th class="_right _logo">
+<img src="https://img.championat.com/s/60x60/team/logo/1335117884142024621_saturn.jpg">
+</img></th>
+<th></th>
+<th class="_center _icon">
+<svg height="11" width="12">
+<use xlink:href="/static/i/icons/icons.svg#rate-arrs"></use>
+</svg>
+</th>
+</tr>
+</thead>
+<tbody>
+
+    <tr>
+        <td class="_right _num">97</td>
+        <td class="_nowrap">
+            <a href="/football/_russiacup/tournament/344/players/562/" class="table-item">
+                <span class="table-item__flag"><img class="_country_flag" src="https://st.championat.com/i/flags/18x12/ru.png" title="Россия" alt="Россия">                                                                                                                                                                                            </span>
+<span class="table-item__amplua">вр</span>
+<span class="table-item__name">Сергей Песьяков</span>
+                            </a>
+                    </td>
+                                                                                                                                                                                <td class="_center">
+                                                                                        </td>
+                                                                </tr>
+    <tr>
+                <td class="_right _num">28</td>
+<td class="_nowrap">
+                            <a href="/football/_russiacup/tournament/344/players/2021/" class="table-item">
+                            <span class="table-item__flag">
+                                            <img class="_country_flag" src="https://st.championat.com/i/flags/18x12/ru.png" title="Россия" alt="Россия">                                                                                                                                                                                            </span>
+<span class="table-item__amplua">зщ</span>
+<span class="table-item__name">Игорь Смольников</span>
+                            </a>
+                    </td>
+                                                                                                                                                                                <td class="_center">
+                                                                                        </td>
+                                                                </tr>
+    <tr>
+                <td class="_right _num">3</td>
+<td class="_nowrap">
+                            <a href="/football/_russiacup/tournament/344/players/15847/" class="table-item">
+                            <span class="table-item__flag">
+                                            <img class="_country_flag" src="https://st.championat.com/i/flags/18x12/sk.png" title="Словакия" alt="Словакия">                                                                                                                                                                                            </span>
+<span class="table-item__amplua">зщ</span>
+<span class="table-item__name">Корнел Салата</span>
+                            </a>
+                    </td>
+                                                                                                                                                                                <td class="_center">
+                                                                                        </td>
+                                                                </tr>
+    <tr>
+                <td class="_right _num">4</td>
+<td class="_nowrap">
+                            <a href="/football/_russiacup/tournament/344/players/197/" class="table-item">
+                            <span class="table-item__flag">
+                                            <img class="_country_flag" src="https://st.championat.com/i/flags/18x12/ng.png" title="Нигерия" alt="Нигерия">                                                                                                                                                                                            </span>
+<span class="table-item__amplua">зщ</span>
+<span class="table-item__name">Айзек Окоронкво</span>
+                            </a>
+                    </td>
+                                                                                                                                                                                <td class="_center">
+                                                                                        </td>
+                                                                </tr>
+    <tr>
+                <td class="_right _num">16</td>
+<td class="_nowrap">
+                            <a href="/football/_russiacup/tournament/344/players/497/" class="table-item">
+                            <span class="table-item__flag">
+                                            <img class="_country_flag" src="https://st.championat.com/i/flags/18x12/ee.png" title="Эстония" alt="Эстония">                                                                                                                                                                                            </span>
+<span class="table-item__amplua">зщ</span>
+<span class="table-item__name">Дмитрий Круглов</span>
+                            </a>
+                    </td>
+                                                                                                                                                                                <td class="_center">
+                                                                                        </td>
+                                                                </tr>
+    <tr>
+                <td class="_right _num">47</td>
+<td class="_nowrap">
+                            <a href="/football/_russiacup/tournament/344/players/36118/" class="table-item">
+                            <span class="table-item__flag">
+                                            <img class="_country_flag" src="https://st.championat.com/i/flags/18x12/ru.png" title="Россия" alt="Россия">                                                                                                                                                                                                    <img class="_country_flag" src="https://st.championat.com/i/flags/18x12/am.png" title="Армения" alt="Армения">                                                                                                                            </span>
+<span class="table-item__amplua">пз</span>
+<span class="table-item__name">Хорен Байрамян</span>
+                            </a>
+                    </td>
+                                                                                                                                                                                <td class="_center">
+                                                                                        </td>
+                                                                </tr>
+    <tr>
+                <td class="_right _num">92</td>
+<td class="_nowrap">
+                            <a href="/football/_russiacup/tournament/344/players/23490/" class="table-item">
+                            <span class="table-item__flag">
+                                            <img class="_country_flag" src="https://st.championat.com/i/flags/18x12/ru.png" title="Россия" alt="Россия">                                                                                                                                                                                            </span>
+<span class="table-item__amplua">пз</span>
+<span class="table-item__name">Роман Емельянов</span>
+                            </a>
+                    </td>
+                                                                                                                                                                                <td class="_center">
+                                <span class="_out">56'</span>                                                        </td>
+                                                                </tr>
+    <tr>
+                <td class="_right _num">84</td>
+<td class="_nowrap">
+                            <a href="/football/_russiacup/tournament/344/players/181/" class="table-item">
+                            <span class="table-item__flag">
+                                            <img class="_country_flag" src="https://st.championat.com/i/flags/18x12/md.png" title="Молдавия" alt="Молдавия">                                                                                                                                                                                                    <img class="_country_flag" src="https://st.championat.com/i/flags/18x12/ru.png" title="Россия" alt="Россия">                                                                                                                            </span>
+<span class="table-item__amplua">пз</span>
+<span class="table-item__name">Александр Гацкан</span>
+                            </a>
+                    </td>
+                                                                                                                                                                                <td class="_center">
+                                                                                        </td>
+                                                                </tr>
+    <tr>
+                <td class="_right _num">88</td>
+<td class="_nowrap">
+                            <a href="/football/_russiacup/tournament/344/players/401/" class="table-item">
+                            <span class="table-item__flag">
+                                            <img class="_country_flag" src="https://st.championat.com/i/flags/18x12/lt.png" title="Литва" alt="Литва">                                                                                                                                                                                            </span>
+<span class="table-item__amplua">пз</span>
+<span class="table-item__name">Эдгарас Чеснаускис</span>
+                            </a>
+                    </td>
+                                                                                                                                                                                <td class="_center">
+                                <span class="_out">96'</span>                                                        </td>
+                                                                </tr>
+    <tr>
+                <td class="_right _num">19</td>
+<td class="_nowrap">
+                            <a href="/football/_russiacup/tournament/344/players/217/" class="table-item">
+                            <span class="table-item__flag">
+                                            <img class="_country_flag" src="https://st.championat.com/i/flags/18x12/ar.png" title="Аргентина" alt="Аргентина">                                                                                                                                                                                                    <img class="_country_flag" src="https://st.championat.com/i/flags/18x12/it.png" title="Италия" alt="Италия">                                                                                                                            </span>
+<span class="table-item__amplua">нп</span>
+<span class="table-item__name">Эктор Бракамонте</span>
+                            </a>
+                    </td>
+                                                                                                                                                                                <td class="_center">
+                                                                                        </td>
+                                                                </tr>
+    <tr>
+                <td class="_right _num">18</td>
+<td class="_nowrap">
+                            <a href="/football/_russiacup/tournament/344/players/4164/" class="table-item">
+                            <span class="table-item__flag">
+                                            <img class="_country_flag" src="https://st.championat.com/i/flags/18x12/cz.png" title="Чехия" alt="Чехия">                                                                                                                                                                                                    <img class="_country_flag" src="https://st.championat.com/i/flags/18x12/gr.png" title="Греция" alt="Греция">                                                                                                                            </span>
+<span class="table-item__amplua">нп</span>
+<span class="table-item__name">Михал Пападопулос</span>
+                            </a>
+                    </td>
+                                                                                                                                                                                <td class="_center">
+                                <span class="_out">56'</span>                                                        </td>
+                                                                </tr>
+    <tr>
+                <td class="_right _num">81</td>
+<td class="_nowrap">
+                            <a href="/football/_russiacup/tournament/344/players/2080/" class="table-item">
+                            <span class="table-item__flag">
+                                            <img class="_country_flag" src="https://st.championat.com/i/flags/18x12/ro.png" title="Румыния" alt="Румыния">                                                                                                                                                                                            </span>
+<span class="table-item__amplua">пз</span>
+<span class="table-item__name">Рэзван Кочиш</span>
+                            </a>
+                    </td>
+                                                                                                                                                                                <td class="_center">
+<span class="_in">56'</span>                                                                                                                    </td>
+                                                                </tr>
+    <tr>
+                <td class="_right _num">9</td>
+<td class="_nowrap">
+                            <a href="/football/_russiacup/tournament/344/players/216/" class="table-item">
+                            <span class="table-item__flag">
+                                            <img class="_country_flag" src="https://st.championat.com/i/flags/18x12/ru.png" title="Россия" alt="Россия">                                                                                                                                                                                            </span>
+<span class="table-item__amplua">нп</span>
+<span class="table-item__name">Роман Адамов</span>
+                            </a>
+                    </td>
+                                                                                                                                                                                <td class="_center">
+<span class="_in">56'</span>                                                                                                                    </td>
+                                                                </tr>
+    <tr>
+                <td class="_right _num">7</td>
+<td class="_nowrap">
+                            <a href="/football/_russiacup/tournament/344/players/18884/" class="table-item">
+                            <span class="table-item__flag">
+                                            <img class="_country_flag" src="https://st.championat.com/i/flags/18x12/br.png" title="Бразилия" alt="Бразилия">                                                                                                                                                                                            </span>
+<span class="table-item__amplua">пз</span>
+<span class="table-item__name"> Элсон</span>
+                            </a>
+                    </td>
+                                                                                                                                                                                <td class="_center">
+<span class="_in">96'</span>                                                                                                                    </td>
+                                                                </tr>
+
+
+<tr>   
+<td class="_right _num">1</td>
+<td class="_nowrap">
+<a class="table-item" href="/football/_russiapl/tournament/3/players/380/">
+<span class="table-item__flag">
+<img alt="Россия" class="_country_flag" src="https://st.championat.com/i/flags/18x12/ru.png" title="Россия"/> </span>
+<span class="table-item__amplua">вр</span>
+<span class="table-item__name">Валерий Чижов</span>
+</a>
+</td>
+<td class="_center">
+</td>
+</tr>
+<tr>
+<td class="_right _num">3</td>
+<td class="_nowrap">
+<a class="table-item" href="/football/_russiapl/tournament/3/players/210/">
+<span class="table-item__flag">
+<img alt="Молдавия" class="_country_flag" src="https://st.championat.com/i/flags/18x12/md.png" title="Молдавия"/> </span>
+<span class="table-item__amplua">зщ</span>
+<span class="table-item__name">Раду Ребежа</span>
+</a>
+</td>
+<td class="_center">
+</td>
+</tr>
+<tr>
+<td class="_right _num">15</td>
+<td class="_nowrap">
+<a class="table-item" href="/football/_russiapl/tournament/3/players/823/">
+<span class="table-item__flag">
+<img alt="Россия" class="_country_flag" src="https://st.championat.com/i/flags/18x12/ru.png" title="Россия"/> </span>
+<span class="table-item__amplua">зщ</span>
+<span class="table-item__name">Эдуард Мор</span>
+</a>
+</td>
+<td class="_center">
+</td>
+</tr>
+<tr>
+<td class="_right _num">6</td>
+<td class="_nowrap">
+<a class="table-item" href="/football/_russiapl/tournament/3/players/383/">
+<span class="table-item__flag">
+<img alt="Литва" class="_country_flag" src="https://st.championat.com/i/flags/18x12/lt.png" title="Литва"/> </span>
+<span class="table-item__amplua">зщ</span>
+<span class="table-item__name">Роландас Джяукштас</span>
+</a>
+</td>
+<td class="_center">
+<span class="_out">75'</span> </td>
+</tr>
+<tr>
+<td class="_right _num">5</td>
+<td class="_nowrap">
+<a class="table-item" href="/football/_russiapl/tournament/3/players/7531/">
+<span class="table-item__flag">
+<img alt="Молдавия" class="_country_flag" src="https://st.championat.com/i/flags/18x12/md.png" title="Молдавия"/> <img alt="Россия" class="_country_flag" src="https://st.championat.com/i/flags/18x12/ru.png" title="Россия"/> </span>
+<span class="table-item__amplua">зщ</span>
+<span class="table-item__name">Андриан Сосновский</span>
+</a>
+</td>
+<td class="_center">
+</td>
+</tr>
+<tr>
+<td class="_right _num">2</td>
+<td class="_nowrap">
+<a class="table-item" href="/football/_russiapl/tournament/3/players/74425/">
+<span class="table-item__flag">
+<img alt="Россия" class="_country_flag" src="https://st.championat.com/i/flags/18x12/ru.png" title="Россия"/> </span>
+<span class="table-item__amplua">зщ</span>
+<span class="table-item__name">Владимир Кураев</span>
+</a>
+</td>
+<td class="_center">
+</td>
+</tr>
+<tr>
+<td class="_right _num">4</td>
+<td class="_nowrap">
+<a class="table-item" href="/football/_russiapl/tournament/3/players/209/">
+<span class="table-item__flag">
+<img alt="Россия" class="_country_flag" src="https://st.championat.com/i/flags/18x12/ru.png" title="Россия"/> </span>
+<span class="table-item__amplua">пз</span>
+<span class="table-item__name">Алексей Мелёшин</span>
+</a>
+</td>
+<td class="_center">
+</td>
+</tr>
+<tr>
+<td class="_right _num">19</td>
+<td class="_nowrap">
+<a class="table-item" href="/football/_russiapl/tournament/3/players/202/">
+<span class="table-item__flag">
+<img alt="Россия" class="_country_flag" src="https://st.championat.com/i/flags/18x12/ru.png" title="Россия"/> </span>
+<span class="table-item__amplua">пз</span>
+<span class="table-item__name">Пётр Быстров</span>
+</a>
+</td>
+<td class="_center">
+</td>
+</tr>
+<tr>
+<td class="_right _num">10</td>
+<td class="_nowrap">
+<a class="table-item" href="/football/_russiapl/tournament/3/players/74104/">
+<span class="table-item__flag">
+<img alt="Россия" class="_country_flag" src="https://st.championat.com/i/flags/18x12/ru.png" title="Россия"/> </span>
+<span class="table-item__amplua">нп</span>
+<span class="table-item__name">Валерий Кечинов</span>
+</a>
+</td>
+<td class="_center">
+</td>
+</tr>
+<tr>
+<td class="_right _num">9</td>
+<td class="_nowrap">
+<a class="table-item" href="/football/_russiapl/tournament/3/players/17614/">
+<span class="table-item__flag">
+<img alt="Босния и Герцеговина" class="_country_flag" src="https://st.championat.com/i/flags/18x12/ba.png" title="Босния и Герцеговина"/> </span>
+<span class="table-item__amplua">нп</span>
+<span class="table-item__name">Самир Муратович</span>
+</a>
+</td>
+<td class="_center">
+</td>
+</tr>
+<tr>
+<td class="_right _num">21</td>
+<td class="_nowrap">
+<a class="table-item" href="/football/_russiapl/tournament/3/players/74/">
+<span class="table-item__flag">
+<img alt="Россия" class="_country_flag" src="https://st.championat.com/i/flags/18x12/ru.png" title="Россия"/> </span>
+<span class="table-item__amplua">нп</span>
+<span class="table-item__name">Андрей Мовсесьян</span>
+</a>
+</td>
+<td class="_center">
+<span class="_out">80'</span> </td>
+</tr>
+<tr>
+<td class="_right _num">7</td>
+<td class="_nowrap">
+<a class="table-item" href="/football/_russiapl/tournament/3/players/812/">
+<span class="table-item__flag">
+<img alt="Россия" class="_country_flag" src="https://st.championat.com/i/flags/18x12/ru.png" title="Россия"/> </span>
+<span class="table-item__amplua">пз</span>
+<span class="table-item__name">Дмитрий Ляпкин</span>
+</a>
+</td>
+<td class="_center">
+<span class="_in">75'</span> </td>
+</tr>
+<tr>
+<td class="_right _num">20</td>
+<td class="_nowrap">
+<a class="table-item" href="/football/_russiapl/tournament/3/players/74232/">
+<span class="table-item__flag">
+<img alt="Югославия" class="_country_flag" src="https://st.championat.com/i/flags/18x12/yu.png" title="Югославия"/> </span>
+<span class="table-item__amplua">пз</span>
+<span class="table-item__name">Милан Йович</span>
+</a>
+</td>
+<td class="_center">
+<span class="_in">80'</span> </td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="swiper-slide js-swiping-tabs-item">
+<div class="tournament-title _hidden-dt">Составы команд</div>
+<table class="match-lineup__players table table-stripe table-row-hover">
+<thead>
+<tr>
+<th class="_right _logo">
+<img src="https://img.championat.com/s/60x60/team/logo/9_1_ksamara.gif">
+</img></th>
+<th></th>
+<th class="_center _icon">
+<svg height="11" width="12">
+<use xlink:href="/static/i/icons/icons.svg#rate-arrs"></use>
+</svg>
+</th>
+</tr>
+</thead>
+<tbody>
+
+        <tr>
+                <td class="_right _num">31</td>
+<td class="_nowrap">
+                            <a href="/football/_russiacup/tournament/344/players/17308/" class="table-item">
+                            <span class="table-item__flag">
+                                            <img class="_country_flag" src="https://st.championat.com/i/flags/18x12/ru.png" title="Россия" alt="Россия">                                                                                                                                                                                            </span>
+<span class="table-item__amplua">вр</span>
+<span class="table-item__name">Фёдор Дьяченко</span>
+                            </a>
+                    </td>
+                                                                                                                                                                                <td class="_center">
+                                <span class="_out">14'</span>                                                        </td>
+                                                                </tr>
+    <tr>
+                <td class="_right _num">55</td>
+<td class="_nowrap">
+                            <a href="/football/_russiacup/tournament/344/players/393/" class="table-item">
+                            <span class="table-item__flag">
+                                            <img class="_country_flag" src="https://st.championat.com/i/flags/18x12/ru.png" title="Россия" alt="Россия">                                                                                                                                                                                            </span>
+<span class="table-item__amplua">зщ</span>
+<span class="table-item__name">Алексей Житников</span>
+                            </a>
+                    </td>
+                                                                                                                                                                                <td class="_center">
+                                                                                        </td>
+                                                                </tr>
+    <tr>
+                <td class="_right _num">70</td>
+<td class="_nowrap">
+                            <a href="/football/_russiacup/tournament/344/players/7567/" class="table-item">
+                            <span class="table-item__flag">
+                                            <img class="_country_flag" src="https://st.championat.com/i/flags/18x12/ru.png" title="Россия" alt="Россия">                                                                                                                                                                                            </span>
+<span class="table-item__amplua">зщ</span>
+<span class="table-item__name">Александр Денисов</span>
+                            </a>
+                    </td>
+                                                                                                                                                                                <td class="_center">
+                                                                                        </td>
+                                                                </tr>
+    <tr>
+                <td class="_right _num">19</td>
+<td class="_nowrap">
+                            <a href="/football/_russiacup/tournament/344/players/14653/" class="table-item">
+                            <span class="table-item__flag">
+                                            <img class="_country_flag" src="https://st.championat.com/i/flags/18x12/ru.png" title="Россия" alt="Россия">                                                                                                                                                                                            </span>
+<span class="table-item__amplua">зщ</span>
+<span class="table-item__name">Алексей Михалёв</span>
+                            </a>
+                    </td>
+                                                                                                                                                                                <td class="_center">
+                                                                                        </td>
+                                                                </tr>
+    <tr>
+                <td class="_right _num">40</td>
+<td class="_nowrap">
+                            <a href="/football/_russiacup/tournament/344/players/15934/" class="table-item">
+                            <span class="table-item__flag">
+                                            <img class="_country_flag" src="https://st.championat.com/i/flags/18x12/ru.png" title="Россия" alt="Россия">                                                                                                                                                                                            </span>
+<span class="table-item__amplua">зщ</span>
+<span class="table-item__name">Евгений Гапон</span>
+                            </a>
+                    </td>
+                                                                                                                                                                                <td class="_center">
+                                                                                        </td>
+                                                                </tr>
+    <tr>
+                <td class="_right _num">20</td>
+<td class="_nowrap">
+                            <a href="/football/_russiacup/tournament/344/players/14676/" class="table-item">
+                            <span class="table-item__flag">
+                                            <img class="_country_flag" src="https://st.championat.com/i/flags/18x12/ru.png" title="Россия" alt="Россия">                                                                                                                                                                                            </span>
+<span class="table-item__amplua">пз</span>
+<span class="table-item__name">Сергей Хабаров</span>
+                            </a>
+                    </td>
+                                                                                                                                                                                <td class="_center">
+                                                                                        </td>
+                                                                </tr>
+    <tr>
+                <td class="_right _num">17</td>
+<td class="_nowrap">
+                            <a href="/football/_russiacup/tournament/344/players/14693/" class="table-item">
+                            <span class="table-item__flag">
+                                            <img class="_country_flag" src="https://st.championat.com/i/flags/18x12/ru.png" title="Россия" alt="Россия">                                                                                                                                                                                            </span>
+<span class="table-item__amplua">пз</span>
+<span class="table-item__name">Денис Клопков</span>
+                            </a>
+                    </td>
+                                                                                                                                                                                <td class="_center">
+                                                                                        </td>
+                                                                </tr>
+    <tr>
+                <td class="_right _num">78</td>
+<td class="_nowrap">
+                            <a href="/football/_russiacup/tournament/344/players/473/" class="table-item">
+                            <span class="table-item__flag">
+                                            <img class="_country_flag" src="https://st.championat.com/i/flags/18x12/ru.png" title="Россия" alt="Россия">                                                                                                                                                                                            </span>
+<span class="table-item__amplua">пз</span>
+<span class="table-item__name">Любомир Кантонистов</span>
+                            </a>
+                    </td>
+                                                                                                                                                                                <td class="_center">
+                                                                                        </td>
+                                                                </tr>
+    <tr>
+                <td class="_right _num">83</td>
+<td class="_nowrap">
+                            <a href="/football/_russiacup/tournament/344/players/7462/" class="table-item">
+                            <span class="table-item__flag">
+                                            <img class="_country_flag" src="https://st.championat.com/i/flags/18x12/ru.png" title="Россия" alt="Россия">                                                                                                                                                                                                    <img class="_country_flag" src="https://st.championat.com/i/flags/18x12/se.png" title="Швеция" alt="Швеция">                                                                                                                            </span>
+<span class="table-item__amplua">пз</span>
+<span class="table-item__name">Пётр Гицелов</span>
+                            </a>
+                    </td>
+                                                                                                                                                                                <td class="_center">
+                                                                                        </td>
+                                                                </tr>
+    <tr>
+                <td class="_right _num">8</td>
+<td class="_nowrap">
+                            <a href="/football/_russiacup/tournament/344/players/22567/" class="table-item">
+                            <span class="table-item__flag">
+                                            <img class="_country_flag" src="https://st.championat.com/i/flags/18x12/ru.png" title="Россия" alt="Россия">                                                                                                                                                                                            </span>
+<span class="table-item__amplua">пз</span>
+<span class="table-item__name">Владимир Еремеев</span>
+                            </a>
+                    </td>
+                                                                                                                                                                                <td class="_center">
+                                <span class="_out">74'</span>                                                        </td>
+                                                                </tr>
+    <tr>
+                <td class="_right _num">11</td>
+<td class="_nowrap">
+                            <a href="/football/_russiacup/tournament/344/players/22942/" class="table-item">
+                            <span class="table-item__flag">
+                                            <img class="_country_flag" src="https://st.championat.com/i/flags/18x12/ru.png" title="Россия" alt="Россия">                                                                                                                                                                                            </span>
+<span class="table-item__amplua">нп</span>
+<span class="table-item__name">Александр Аброскин</span>
+                            </a>
+                    </td>
+                                                                                                                                                                                <td class="_center">
+                                <span class="_out">86'</span>                                                        </td>
+                                                                </tr>
+    <tr>
+                <td class="_right _num">25</td>
+<td class="_nowrap">
+                            <a href="/football/_russiacup/tournament/344/players/8222/" class="table-item">
+                            <span class="table-item__flag">
+                                            <img class="_country_flag" src="https://st.championat.com/i/flags/18x12/ro.png" title="Румыния" alt="Румыния">                                                                                                                                                                                            </span>
+<span class="table-item__amplua">вр</span>
+<span class="table-item__name">Эмильян Долха</span>
+                            </a>
+                    </td>
+                                                                                                                                                                                <td class="_center">
+<span class="_in">14'</span>                                                                                                                    </td>
+                                                                </tr>
+    <tr>
+                <td class="_right _num">32</td>
+<td class="_nowrap">
+                            <a href="/football/_russiacup/tournament/344/players/655/" class="table-item">
+                            <span class="table-item__flag">
+                                            <img class="_country_flag" src="https://st.championat.com/i/flags/18x12/ru.png" title="Россия" alt="Россия">                                                                                                                                                                                            </span>
+<span class="table-item__amplua">зщ</span>
+<span class="table-item__name">Исмаил Эдиев</span>
+                            </a>
+                    </td>
+                                                                                                                                                                                <td class="_center">
+<span class="_in">74'</span>                                                                                                                    </td>
+                                                                </tr>
+    <tr>
+                <td class="_right _num">88</td>
+<td class="_nowrap">
+                            <a href="/football/_russiacup/tournament/344/players/297/" class="table-item">
+                            <span class="table-item__flag">
+                                            <img class="_country_flag" src="https://st.championat.com/i/flags/18x12/ru.png" title="Россия" alt="Россия">                                                                                                                                                                                            </span>
+<span class="table-item__amplua">нп</span>
+<span class="table-item__name">Евгений Гаврюк</span>
+                            </a>
+                    </td>
+                                                                                                                                                                                <td class="_center">
+<span class="_in">86'</span>                                                                                                                    </td>
+                                                                </tr>
+
+<tr>
+<td class="_right _num">21</td>
+<td class="_nowrap">
+<a class="table-item" href="/football/_russiapl/tournament/3/players/486/">
+<span class="table-item__flag">
+<img alt="Россия" class="_country_flag" src="https://st.championat.com/i/flags/18x12/ru.png" title="Россия"/> </span>
+<span class="table-item__amplua">вр</span>
+<span class="table-item__name">Алексей Поляков</span>
+</a>
+</td>
+<td class="_center">
+</td>
+</tr>
+<tr>
+<td class="_right _num">6</td>
+<td class="_nowrap">
+<a class="table-item" href="/football/_russiapl/tournament/3/players/74240/">
+<span class="table-item__flag">
+<img alt="Россия" class="_country_flag" src="https://st.championat.com/i/flags/18x12/ru.png" title="Россия"/> </span>
+<span class="table-item__amplua">зщ</span>
+<span class="table-item__name">Евгений Бушманов</span>
+</a>
+</td>
+<td class="_center">
+</td>
+</tr>
+<tr>
+<td class="_right _num">31</td>
+<td class="_nowrap">
+<a class="table-item" href="/football/_russiapl/tournament/3/players/74246/">
+<span class="table-item__flag">
+<img alt="Югославия" class="_country_flag" src="https://st.championat.com/i/flags/18x12/yu.png" title="Югославия"/> </span>
+<span class="table-item__amplua">зщ</span>
+<span class="table-item__name">Вук Рашович</span>
+</a>
+</td>
+<td class="_center">
+</td>
+</tr>
+<tr>
+<td class="_right _num">4</td>
+<td class="_nowrap">
+<a class="table-item" href="/football/_russiapl/tournament/3/players/420/">
+<span class="table-item__flag">
+<img alt="Нигерия" class="_country_flag" src="https://st.championat.com/i/flags/18x12/ng.png" title="Нигерия"/> </span>
+<span class="table-item__amplua">зщ</span>
+<span class="table-item__name">Патрик Овие</span>
+</a>
+</td>
+<td class="_center">
+</td>
+</tr>
+<tr>
+<td class="_right _num">7</td>
+<td class="_nowrap">
+<a class="table-item" href="/football/_russiapl/tournament/3/players/315/">
+<span class="table-item__flag">
+<img alt="Россия" class="_country_flag" src="https://st.championat.com/i/flags/18x12/ru.png" title="Россия"/> </span>
+<span class="table-item__amplua">пз</span>
+<span class="table-item__name">Антон Бобёр</span>
+</a>
+</td>
+<td class="_center">
+</td>
+</tr>
+<tr>
+<td class="_right _num">5</td>
+<td class="_nowrap">
+<a class="table-item" href="/football/_russiapl/tournament/3/players/5655/">
+<span class="table-item__flag">
+<img alt="Россия" class="_country_flag" src="https://st.championat.com/i/flags/18x12/ru.png" title="Россия"/> </span>
+<span class="table-item__amplua">пз</span>
+<span class="table-item__name">Андрей Каряка</span>
+</a>
+</td>
+<td class="_center">
+<span class="_out">46'</span> </td>
+</tr>
+<tr>
+<td class="_right _num">8</td>
+<td class="_nowrap">
+<a class="table-item" href="/football/_russiapl/tournament/3/players/7682/">
+<span class="table-item__flag">
+<img alt="Россия" class="_country_flag" src="https://st.championat.com/i/flags/18x12/ru.png" title="Россия"/> </span>
+<span class="table-item__amplua">пз</span>
+<span class="table-item__name">Виктор Булатов</span>
+</a>
+</td>
+<td class="_center">
+<span class="_out">46'</span> </td>
+</tr>
+<tr>
+<td class="_right _num">2</td>
+<td class="_nowrap">
+<a class="table-item" href="/football/_russiapl/tournament/3/players/247/">
+<span class="table-item__flag">
+<img alt="Россия" class="_country_flag" src="https://st.championat.com/i/flags/18x12/ru.png" title="Россия"/> </span>
+<span class="table-item__amplua">пз</span>
+<span class="table-item__name">Владислав Радимов</span>
+</a>
+</td>
+<td class="_center">
+</td>
+</tr>
+<tr>
+<td class="_right _num">3</td>
+<td class="_nowrap">
+<a class="table-item" href="/football/_russiapl/tournament/3/players/74202/">
+<span class="table-item__flag">
+<img alt="Бразилия" class="_country_flag" src="https://st.championat.com/i/flags/18x12/br.png" title="Бразилия"/> </span>
+<span class="table-item__amplua">пз</span>
+<span class="table-item__name">Леандро Самароне</span>
+</a>
+</td>
+<td class="_center">
+</td>
+</tr>
+<tr>
+<td class="_right _num">10</td>
+<td class="_nowrap">
+<a class="table-item" href="/football/_russiapl/tournament/3/players/10084/">
+<span class="table-item__flag">
+<img alt="Бразилия" class="_country_flag" src="https://st.championat.com/i/flags/18x12/br.png" title="Бразилия"/> </span>
+<span class="table-item__amplua">нп</span>
+<span class="table-item__name">Рожерио Гаушо</span>
+</a>
+</td>
+<td class="_center">
+</td>
+</tr>
+<tr>
+<td class="_right _num">32</td>
+<td class="_nowrap">
+<a class="table-item" href="/football/_russiapl/tournament/3/players/261/">
+<span class="table-item__flag">
+<img alt="Литва" class="_country_flag" src="https://st.championat.com/i/flags/18x12/lt.png" title="Литва"/> </span>
+<span class="table-item__amplua">нп</span>
+<span class="table-item__name">Робертас Пошкус</span>
+</a>
+</td>
+<td class="_center">
+</td>
+</tr>
+<tr>
+<td class="_right _num">11</td>
+<td class="_nowrap">
+<a class="table-item" href="/football/_russiapl/tournament/3/players/819/">
+<span class="table-item__flag">
+<img alt="Россия" class="_country_flag" src="https://st.championat.com/i/flags/18x12/ru.png" title="Россия"/> </span>
+<span class="table-item__amplua">пз</span>
+<span class="table-item__name">Андрей Тихонов</span>
+</a>
+</td>
+<td class="_center">
+<span class="_in">46'</span> </td>
+</tr>
+<tr>
+<td class="_right _num">9</td>
+<td class="_nowrap">
+<a class="table-item" href="/football/_russiapl/tournament/3/players/322/">
+<span class="table-item__flag">
+<img alt="Беларусь" class="_country_flag" src="https://st.championat.com/i/flags/18x12/by.png" title="Беларусь"/> </span>
+<span class="table-item__amplua">пз</span>
+<span class="table-item__name">Денис Ковба</span>
+</a>
+</td>
+<td class="_center">
+<span class="_in">46'</span> </td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 class="tournament-title _hidden-td">Запасные</h3>
+<div class="swiper-slide js-swiping-tabs-item">
+<div class="tournament-title _hidden-dt">Запасные</div>
+<table class="table table-stripe table-row-hover">
+<tbody>
+<tr>
+<td class="_right _num">12</td>
+<td class="_nowrap">
+<a class="table-item" href="/football/_russiapl/tournament/3/players/7922/">
+<span class="table-item__flag">
+<img alt="Россия" class="_country_flag" src="https://st.championat.com/i/flags/18x12/ru.png" title="Россия"/> </span>
+<span class="table-item__amplua">вр</span>
+<span class="table-item__name">Александр Помазун</span>
+</a>
+</td>
+</tr>
+<tr>
+<td class="_right _num">23</td>
+<td class="_nowrap">
+<a class="table-item" href="/football/_russiapl/tournament/3/players/809/">
+<span class="table-item__flag">
+<img alt="Россия" class="_country_flag" src="https://st.championat.com/i/flags/18x12/ru.png" title="Россия"/> </span>
+<span class="table-item__amplua">зщ</span>
+<span class="table-item__name">Георгий Микадзе</span>
+</a>
+</td>
+</tr>
+<tr>
+<td class="_right _num">17</td>
+<td class="_nowrap">
+<a class="table-item" href="/football/_russiapl/tournament/3/players/74427/">
+<span class="table-item__flag">
+<img alt="Босния и Герцеговина" class="_country_flag" src="https://st.championat.com/i/flags/18x12/ba.png" title="Босния и Герцеговина"/> </span>
+<span class="table-item__amplua">пз</span>
+<span class="table-item__name">Омер Йолдич</span>
+</a>
+</td>
+</tr>
+<tr>
+<td class="_right _num">13</td>
+<td class="_nowrap">
+<a class="table-item" href="/football/_russiapl/tournament/3/players/336/">
+<span class="table-item__flag">
+<img alt="Россия" class="_country_flag" src="https://st.championat.com/i/flags/18x12/ru.png" title="Россия"/> </span>
+<span class="table-item__amplua">нп</span>
+<span class="table-item__name">Алексей Медведев</span>
+</a>
+</td>
+</tr>
+<tr>
+<td class="_right _num">11</td>
+<td class="_nowrap">
+<a class="table-item" href="/football/_russiapl/tournament/3/players/2273/">
+<span class="table-item__flag">
+<img alt="Молдавия" class="_country_flag" src="https://st.championat.com/i/flags/18x12/md.png" title="Молдавия"/> </span>
+<span class="table-item__amplua">нп</span>
+<span class="table-item__name">Сергей Рогачёв</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="swiper-slide js-swiping-tabs-item">
+<div class="tournament-title _hidden-dt">Запасные</div>
+<table class="table table-stripe table-row-hover">
+<tbody>
+<tr>
+<td class="_right _num">1</td>
+<td class="_nowrap">
+<a class="table-item" href="/football/_russiapl/tournament/3/players/1137/">
+<span class="table-item__flag">
+<img alt="Украина" class="_country_flag" src="https://st.championat.com/i/flags/18x12/ua.png" title="Украина"/> </span>
+<span class="table-item__amplua">вр</span>
+<span class="table-item__name">Александр Лавренцов</span>
+</a>
+</td>
+</tr>
+<tr>
+<td class="_right _num">20</td>
+<td class="_nowrap">
+<a class="table-item" href="/football/_russiapl/tournament/3/players/74018/">
+<span class="table-item__flag">
+<img alt="Литва" class="_country_flag" src="https://st.championat.com/i/flags/18x12/lt.png" title="Литва"/> </span>
+<span class="table-item__amplua">зщ</span>
+<span class="table-item__name">Нериус Бараса</span>
+</a>
+</td>
+</tr>
+<tr>
+<td class="_right _num">22</td>
+<td class="_nowrap">
+<a class="table-item" href="/football/_russiapl/tournament/3/players/40169/">
+<span class="table-item__flag">
+<img alt="Беларусь" class="_country_flag" src="https://st.championat.com/i/flags/18x12/by.png" title="Беларусь"/> </span>
+<span class="table-item__amplua">зщ</span>
+<span class="table-item__name">Владимир Шунейко</span>
+</a>
+</td>
+</tr>
+<tr>
+<td class="_right _num">14</td>
+<td class="_nowrap">
+<a class="table-item" href="/football/_russiapl/tournament/3/players/310/">
+<span class="table-item__flag">
+<img alt="Армения" class="_country_flag" src="https://st.championat.com/i/flags/18x12/am.png" title="Армения"/> </span>
+<span class="table-item__amplua">зщ</span>
+<span class="table-item__name">Карен Дохоян</span>
+</a>
+</td>
+</tr>
+<tr>
+<td class="_right _num">17</td>
+<td class="_nowrap">
+<a class="table-item" href="/football/_russiapl/tournament/3/players/333/">
+<span class="table-item__flag">
+<img alt="Россия" class="_country_flag" src="https://st.championat.com/i/flags/18x12/ru.png" title="Россия"/> </span>
+<span class="table-item__amplua">пз</span>
+<span class="table-item__name">Сергей Виноградов</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 class="tournament-title _hidden-td">Главные тренеры</h3>
+<div class="swiper-slide js-swiping-tabs-item">
+<div class="tournament-title _hidden-dt">Главные тренеры</div>
+<table class="table table-stripe table-row-hover">
+<tbody>
+<tr>
+<td>
+<a class="table-item" href="/football/_russiapl/tournament/3/coaches/1400/">
+<span class="table-item__flag">
+<img alt="Россия" class="_country_flag" src="https://st.championat.com/i/flags/18x12/ru.png" title="Россия"/> </span>
+<span class="table-item__name">Владимир Михайлович Шевчук</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="swiper-slide js-swiping-tabs-item">
+<div class="tournament-title _hidden-dt">Главные тренеры</div>
+<table class="table table-stripe table-row-hover">
+<tbody>
+<tr>
+<td>
+<a class="table-item" href="/football/_russiapl/tournament/3/coaches/370/">
+<span class="table-item__flag">
+<img alt="Россия" class="_country_flag" src="https://st.championat.com/i/flags/18x12/ru.png" title="Россия"/> </span>
+<span class="table-item__name">Александр Фёдорович Тарханов</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+<div class="stat-graph">
+<h2 class="tournament-title _centered">Статистика</h2>
+<div class="stat-graph__head">
+<div class="stat-graph__team _left">Сатурн-REN TV</div>
+<div class="stat-graph__team _right">Крылья Советов</div>
+</div>
+<div class="stat-graph__row">
+<div class="stat-graph__value _left">2</div>
+<div class="stat-graph__title">Предупреждения</div>
+<div class="stat-graph__value _right">  4</div>
+<div class="stat-graph__line">
+<div class="stat-graph__line-value _left" style="width:33.3%"></div> <div class="stat-graph__line-value _right" style="width:66.7%"></div> </div>
+</div>
+<div class="stat-graph__row">
+<div class="stat-graph__value _left _empty">0</div>
+<div class="stat-graph__title">Удаления</div>
+<div class="stat-graph__value _right _empty">  0</div>
+<div class="stat-graph__line">
+</div>
+</div>
+</div>
+</div>
