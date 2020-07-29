@@ -1,0 +1,14 @@
+setup.py
+football_parser.egg-info/PKG-INFO
+football_parser.egg-info/SOURCES.txt
+football_parser.egg-info/dependency_links.txt
+football_parser.egg-info/top_level.txt
+stat_parser/__init__.py
+stat_parser/models.py
+stat_parser/run.py
+stat_parser/parser/__init__.py
+stat_parser/parser/core.py
+stat_parser/parser/models.py
+stat_parser/parser/types.py
+tests/__init__.py
+tests/test_parsing.py

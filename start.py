@@ -11,8 +11,7 @@ from datetime import datetime
 from PyQt5 import QtWidgets, QtCore, QtGui
 import championat_com_model as model
 from chempionat_ru_parser import Node, GetIdFromString, GetTrnmtNameFromLink
-from sqlalchemy.orm import scoped_session, sessionmaker, Session
-from sqlalchemy import create_engine, exists, and_
+, exists, and_
 import os
 
 
@@ -181,9 +180,7 @@ class App(QtWidgets.QMainWindow, design.Ui_MainWindow):
         super().__init__()
         self.setupUi(self)
         self.logger = logging.getLogger('app')
-        self.Engine = create_engine(
-            'mysql+mysqlconnector://root:Vaevictis9379992@localhost/football_stats_championat_com')
-        self.DbSession = scoped_session(sessionmaker(bind=self.Engine))
+
         self.ParsedSeasonsCount = 0
         self.count_for_parse = 0
         self.years_for_parsed = range(2002, 2019)
@@ -226,7 +223,7 @@ class App(QtWidgets.QMainWindow, design.Ui_MainWindow):
             SeasonsModel = QtCore.QStringListModel()
 
             SeasonsModel.setStringList(
-                Parser.GetSeasons("https://www.championat.com/stat/football/tournaments/2/domestic/", Proxy))
+                Parser.GetSeasons(, Proxy))
             self.select_parse_year_cbx.setModel(SeasonsModel)
         except Exception as Err:
             MessageError(str(Err))
@@ -535,7 +532,6 @@ class App(QtWidgets.QMainWindow, design.Ui_MainWindow):
             self.logger.exception(f"Error saving links to files: {Err}")
 
 if __name__ == '__main__':
-    logging.config.fileConfig('config/log_parsing_cfg.ini')
     app = QtWidgets.QApplication(sys.argv)
     window = App()
     window.show()
